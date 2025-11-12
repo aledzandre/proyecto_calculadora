@@ -13,6 +13,6 @@ elif operacion == '/':
     if b != 0:
         print("Resultado:", numero_1 / numero_2)
     else:
-        print("Error: no se puede dividir por cero.")
+        print("Error: no se puede dividir por cero mensaje 2.")
 else:
     print("Operación no válida.")
